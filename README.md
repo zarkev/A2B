@@ -4,7 +4,7 @@ A2B is a collection of free unencumbered unlicensed software created by humans a
 # UNLICENSE
 For more information, please refer to <https://unlicense.org/> and <https://opensource.org/license/unlicense>.
 
-# Disclaimer:
+# Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
